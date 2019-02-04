@@ -1,7 +1,7 @@
 from synaptic import NeuralNetwork
 from synaptic_plus import Data, Optimizers
 
-data = Data.load("datasets/mnist-shuffled", validation_percentage=10, test_percentage=10)
+data = Data.load("iris", validation_percentage=10, test_percentage=10)
 
 nn = NeuralNetwork()
 
