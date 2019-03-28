@@ -30,3 +30,9 @@ Activation Functions:
 Loss Functions:
 * Logistic
 * Mean Squared
+
+Optimizers:
+* Standart Gradient Descent
+* Momentum
+* RMSProp
+* Adam
