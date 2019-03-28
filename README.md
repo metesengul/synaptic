@@ -21,3 +21,12 @@ nn.optimizer = Optimizers.Adam
 nn.train(epochs=5, parameters={"Learning Rate": 0.0001}, training_info=["Epoch", "Time", "Validation Accuracy"])
 
 ```
+Activation Functions:
+* Sigmoid
+* Tanh
+* Softmax
+* Relu
+
+Loss Functions:
+* Logistic
+* Mean Squared
