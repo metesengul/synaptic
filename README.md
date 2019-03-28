@@ -27,9 +27,11 @@ Activation Functions:
 * Softmax
 * Relu
 
+
 Loss Functions:
 * Logistic
 * Mean Squared
+
 
 Optimizers:
 * Standart Gradient Descent
