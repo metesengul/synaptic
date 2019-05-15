@@ -1,5 +1,5 @@
 # Synaptic
-Synaptic is a simple deep learning library for Python.
+Synaptic is a simple deep learning library for Python
 
 Example usage:
 ```python
